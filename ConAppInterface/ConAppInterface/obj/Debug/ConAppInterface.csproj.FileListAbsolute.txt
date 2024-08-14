@@ -1,0 +1,7 @@
+D:\EY\Day-2\ConAppInterface\ConAppInterface\bin\Debug\ConAppInterface.exe.config
+D:\EY\Day-2\ConAppInterface\ConAppInterface\bin\Debug\ConAppInterface.exe
+D:\EY\Day-2\ConAppInterface\ConAppInterface\bin\Debug\ConAppInterface.pdb
+D:\EY\Day-2\ConAppInterface\ConAppInterface\obj\Debug\ConAppInterface.csproj.AssemblyReference.cache
+D:\EY\Day-2\ConAppInterface\ConAppInterface\obj\Debug\ConAppInterface.csproj.CoreCompileInputs.cache
+D:\EY\Day-2\ConAppInterface\ConAppInterface\obj\Debug\ConAppInterface.exe
+D:\EY\Day-2\ConAppInterface\ConAppInterface\obj\Debug\ConAppInterface.pdb

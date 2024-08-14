@@ -1,0 +1,7 @@
+D:\EY\Day-2\ConAppCollectionTwo\ConAppCollectionTwo\bin\Debug\ConAppCollectionTwo.exe.config
+D:\EY\Day-2\ConAppCollectionTwo\ConAppCollectionTwo\bin\Debug\ConAppCollectionTwo.exe
+D:\EY\Day-2\ConAppCollectionTwo\ConAppCollectionTwo\bin\Debug\ConAppCollectionTwo.pdb
+D:\EY\Day-2\ConAppCollectionTwo\ConAppCollectionTwo\obj\Debug\ConAppCollectionTwo.csproj.AssemblyReference.cache
+D:\EY\Day-2\ConAppCollectionTwo\ConAppCollectionTwo\obj\Debug\ConAppCollectionTwo.csproj.CoreCompileInputs.cache
+D:\EY\Day-2\ConAppCollectionTwo\ConAppCollectionTwo\obj\Debug\ConAppCollectionTwo.exe
+D:\EY\Day-2\ConAppCollectionTwo\ConAppCollectionTwo\obj\Debug\ConAppCollectionTwo.pdb

@@ -1,0 +1,7 @@
+D:\EY\Day-2\ConAppGenericClass\ConAppGenericClass\bin\Debug\ConAppGenericClass.exe.config
+D:\EY\Day-2\ConAppGenericClass\ConAppGenericClass\bin\Debug\ConAppGenericClass.exe
+D:\EY\Day-2\ConAppGenericClass\ConAppGenericClass\bin\Debug\ConAppGenericClass.pdb
+D:\EY\Day-2\ConAppGenericClass\ConAppGenericClass\obj\Debug\ConAppGenericClass.csproj.AssemblyReference.cache
+D:\EY\Day-2\ConAppGenericClass\ConAppGenericClass\obj\Debug\ConAppGenericClass.csproj.CoreCompileInputs.cache
+D:\EY\Day-2\ConAppGenericClass\ConAppGenericClass\obj\Debug\ConAppGenericClass.exe
+D:\EY\Day-2\ConAppGenericClass\ConAppGenericClass\obj\Debug\ConAppGenericClass.pdb

@@ -1,0 +1,7 @@
+D:\EY\Day-2\ConAppCustomEx\ConAppCustomEx\bin\Debug\ConAppCustomEx.exe.config
+D:\EY\Day-2\ConAppCustomEx\ConAppCustomEx\bin\Debug\ConAppCustomEx.exe
+D:\EY\Day-2\ConAppCustomEx\ConAppCustomEx\bin\Debug\ConAppCustomEx.pdb
+D:\EY\Day-2\ConAppCustomEx\ConAppCustomEx\obj\Debug\ConAppCustomEx.csproj.AssemblyReference.cache
+D:\EY\Day-2\ConAppCustomEx\ConAppCustomEx\obj\Debug\ConAppCustomEx.csproj.CoreCompileInputs.cache
+D:\EY\Day-2\ConAppCustomEx\ConAppCustomEx\obj\Debug\ConAppCustomEx.exe
+D:\EY\Day-2\ConAppCustomEx\ConAppCustomEx\obj\Debug\ConAppCustomEx.pdb

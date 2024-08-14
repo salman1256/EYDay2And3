@@ -1,0 +1,7 @@
+D:\EY\Day-2\ConAppAnonymousMethod\ConAppAnonymousMethod\bin\Debug\ConAppAnonymousMethod.exe.config
+D:\EY\Day-2\ConAppAnonymousMethod\ConAppAnonymousMethod\bin\Debug\ConAppAnonymousMethod.exe
+D:\EY\Day-2\ConAppAnonymousMethod\ConAppAnonymousMethod\bin\Debug\ConAppAnonymousMethod.pdb
+D:\EY\Day-2\ConAppAnonymousMethod\ConAppAnonymousMethod\obj\Debug\ConAppAnonymousMethod.csproj.AssemblyReference.cache
+D:\EY\Day-2\ConAppAnonymousMethod\ConAppAnonymousMethod\obj\Debug\ConAppAnonymousMethod.csproj.CoreCompileInputs.cache
+D:\EY\Day-2\ConAppAnonymousMethod\ConAppAnonymousMethod\obj\Debug\ConAppAnonymousMethod.exe
+D:\EY\Day-2\ConAppAnonymousMethod\ConAppAnonymousMethod\obj\Debug\ConAppAnonymousMethod.pdb

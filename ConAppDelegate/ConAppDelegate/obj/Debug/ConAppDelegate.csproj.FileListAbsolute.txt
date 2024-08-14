@@ -1,0 +1,7 @@
+D:\EY\Day-2\ConAppDelegate\ConAppDelegate\bin\Debug\ConAppDelegate.exe.config
+D:\EY\Day-2\ConAppDelegate\ConAppDelegate\bin\Debug\ConAppDelegate.exe
+D:\EY\Day-2\ConAppDelegate\ConAppDelegate\bin\Debug\ConAppDelegate.pdb
+D:\EY\Day-2\ConAppDelegate\ConAppDelegate\obj\Debug\ConAppDelegate.csproj.AssemblyReference.cache
+D:\EY\Day-2\ConAppDelegate\ConAppDelegate\obj\Debug\ConAppDelegate.csproj.CoreCompileInputs.cache
+D:\EY\Day-2\ConAppDelegate\ConAppDelegate\obj\Debug\ConAppDelegate.exe
+D:\EY\Day-2\ConAppDelegate\ConAppDelegate\obj\Debug\ConAppDelegate.pdb
